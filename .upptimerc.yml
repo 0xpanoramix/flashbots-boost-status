@@ -6,6 +6,12 @@ sites:
   - name: Kiln
     url: https://builder-relay-kiln.flashbots.net/
 
+  - name: Ropsten
+    url: https://builder-relay-ropsten.flashbots.net/
+
+  - name: Sepolia
+    url: https://builder-relay-sepolia.flashbots.net/eth/v1/builder/status
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
