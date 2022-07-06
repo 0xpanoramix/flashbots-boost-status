@@ -4,7 +4,7 @@ repo: flashbots-boost-status # The name of this repository
 
 sites:
   - name: Kiln
-    url: https://builder-relay-kiln.flashbots.net/eth/v1/builder/status
+    url: https://builder-relay-kiln.flashbots.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
