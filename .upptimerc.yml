@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Flashbots Boost Status
   introTitle: "**Flashbots is a R&D organization working on mitigating the negative externalities of Maximal Extractable Value (MEV) on Ethereum."
-  introMessage: This is a simple page showing the current status of Flashbots' relayers.
+  introMessage: This is a simple page showing the current status of Flashbots Eth2 Relays.
   navbar:
     - title: Status
       href: /
