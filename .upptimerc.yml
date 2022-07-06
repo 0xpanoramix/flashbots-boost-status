@@ -23,7 +23,7 @@ status-website:
   introMessage: This is a simple page showing the current status of Flashbots Eth2 Relays.
   navbar:
     - title: Status
-      href: /
+      href: /flashbots-boost-status
     - title: GitHub
       href: https://github.com/flashbots
 
