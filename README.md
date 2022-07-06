@@ -1,6 +1,6 @@
 # [📈 Live Status](https://0xpanoramix.github.io/flashbots-boost-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Luca G.F.](https://www.kiln.fi/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Flashbots Relayers](https://github.com/flashbots/mev-boost/wiki#testing), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/0xpanoramix/flashbots-boost-status/workflows/Uptime%20CI/badge.svg)](https://github.com/0xpanoramix/flashbots-boost-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/0xpanoramix/flashbots-boost-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/0xpanoramix/flashbots-boost-status/actions?query=workflow%3A%22Response+Time+CI%22)
