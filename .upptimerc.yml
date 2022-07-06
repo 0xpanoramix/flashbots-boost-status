@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /flashbots-boost-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/0xpanoramix/flashbots-boost-status/master/assets/flashbots-icon.svg
   name: Flashbots Boost Status
   introTitle: "**Flashbots is a R&D organization working on mitigating the negative externalities of Maximal Extractable Value (MEV) on Ethereum."
   introMessage: This is a simple page showing the current status of Flashbots Eth2 Relays.
