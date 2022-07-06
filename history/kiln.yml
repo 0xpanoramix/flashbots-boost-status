@@ -1,7 +1,7 @@
-url: https://builder-relay-kiln.flashbots.net/
+url: https://builder-relay-kiln.flashbots.net/eth/v1/builder/status
 status: up
 code: 200
-responseTime: 178
-lastUpdated: 2022-07-06T09:25:41.161Z
+responseTime: 118
+lastUpdated: 2022-07-06T09:30:22.962Z
 startTime: Wed Jul 06 2022 08:58:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
