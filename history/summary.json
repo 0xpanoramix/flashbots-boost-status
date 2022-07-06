@@ -1,7 +1,7 @@
 [
   {
     "name": "Kiln",
-    "url": "https://builder-relay-kiln.flashbots.net/eth/v1/builder/status",
+    "url": "https://builder-relay-kiln.flashbots.net/",
     "icon": "https://favicons.githubusercontent.com/builder-relay-kiln.flashbots.net",
     "slug": "kiln",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 179,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   }
 ]
