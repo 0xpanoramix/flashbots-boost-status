@@ -1,7 +1,7 @@
 [
   {
     "name": "Kiln",
-    "url": "https://builder-relay-kiln.flashbots.net/",
+    "url": "https://builder-relay-kiln.flashbots.net/eth/v1/builder/status",
     "icon": "https://favicons.githubusercontent.com/builder-relay-kiln.flashbots.net",
     "slug": "kiln",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 206,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
     "name": "Ropsten",
-    "url": "https://builder-relay-ropsten.flashbots.net/",
+    "url": "https://builder-relay-ropsten.flashbots.net/eth/v1/builder/status",
     "icon": "https://favicons.githubusercontent.com/builder-relay-ropsten.flashbots.net",
     "slug": "ropsten",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   }
 ]
