@@ -4,10 +4,10 @@
     "url": "https://builder-relay-kiln.flashbots.net/eth/v1/builder/status",
     "icon": "https://favicons.githubusercontent.com/builder-relay-kiln.flashbots.net",
     "slug": "kiln",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
@@ -15,14 +15,16 @@
     "timeWeek": 242,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 2
+    }
   },
   {
     "name": "Ropsten",
     "url": "https://builder-relay-ropsten.flashbots.net/eth/v1/builder/status",
     "icon": "https://favicons.githubusercontent.com/builder-relay-ropsten.flashbots.net",
     "slug": "ropsten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 232,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Sepolia",
