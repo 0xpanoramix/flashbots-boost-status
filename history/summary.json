@@ -4,19 +4,19 @@
     "url": "https://builder-relay-kiln.flashbots.net/eth/v1/builder/status",
     "icon": "https://favicons.githubusercontent.com/builder-relay-kiln.flashbots.net",
     "slug": "kiln",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 135,
-    "timeWeek": 242,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 252,
+    "timeDay": 203,
+    "timeWeek": 246,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-07-28": 2
+      "2022-07-28": 26
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/builder-relay-ropsten.flashbots.net",
     "slug": "ropsten",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 243,
     "timeDay": 158,
     "timeWeek": 232,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 26
     }
   },
   {
